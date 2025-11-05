@@ -107,3 +107,32 @@ Enhanced skills in data visualization and pattern recognition.
 
 This analysis highlights how service type, billing behavior, and contract terms directly impact customer churn in the telecom industry.
 By implementing data-driven retention strategies, companies can significantly reduce churn and improve customer lifetime value.
+
+
+![Image](https://github.com/user-attachments/assets/0a601fba-d153-4a03-8a46-2888d1c36763)
+
+![Image](https://github.com/user-attachments/assets/5f104cc0-fde8-4c6a-94cc-bddde3b0c2b8)
+
+![Image](https://github.com/user-attachments/assets/77daabe1-ec16-4b80-8703-9b33851d43a8)
+
+![Image](https://github.com/user-attachments/assets/13ea75e0-2ded-49b1-a179-c0d69283bafa)
+
+![Image](https://github.com/user-attachments/assets/77742807-13bb-4eb1-b30c-8ba67d76fc1d)
+
+![Image](https://github.com/user-attachments/assets/11889f2e-ef2e-4e92-918b-98f4531bc94b)
+
+![Image](https://github.com/user-attachments/assets/1da09f5f-fa56-4400-a6a8-c2fabe53fc34)
+
+![Image](https://github.com/user-attachments/assets/a011f7a2-10a6-4f80-b1a0-46bc9b90b9e7)
+
+![Image](https://github.com/user-attachments/assets/4413df01-1acb-4dd5-b728-ebde403bc34d)
+
+![Image](https://github.com/user-attachments/assets/57559751-452d-41d1-a46c-57c39bfa5131)
+
+![Image](https://github.com/user-attachments/assets/46b78071-0519-43ff-ad6e-e9b131baaadc)
+
+![Image](https://github.com/user-attachments/assets/00aac89a-f91e-431a-a0bd-1b53fde6c75f)
+
+![Image](https://github.com/user-attachments/assets/fd8532cd-d262-483a-bb71-48627c79114c)
+
+
